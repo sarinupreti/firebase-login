@@ -1,6 +1,7 @@
-# login
 
-A new Flutter project.
+A new Flutter project with firebase login.
+
+# Please add your google-services.json file in order to run the projects properly.
 
 ## Getting Started
 
